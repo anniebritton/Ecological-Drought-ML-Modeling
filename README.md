@@ -3,6 +3,6 @@
 
 
 To Do:
-Clean up Scripts (consolidate into one master script?)
-Link to Raw and Processed Data
-Include Final Abstract
+- Clean up Scripts (consolidate into one master script?)
+- Link to Raw and Processed Data
+- Include Final Abstract
