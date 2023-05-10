@@ -1,5 +1,5 @@
 # Eco-Drought-South-Dakota
-📊🛰️ Data processing scripts, ML models, and Explanable AI results created as part of my Master's Thesis @ Johns Hopkins: **An Interpretable Machine Learning Model to Explore Relationships between Drought Indices and Ecological Drought Impacts in the Cheyenne River Basin, USA**
+📊🛰️ Data processing scripts, ML models, and Explainable AI results created as part of my Masters Thesis @ Johns Hopkins: **An Interpretable Machine Learning Model to Explore Relationships between Drought Indices and Ecological Drought Impacts in the Cheyenne River Basin, USA**
 
 ## Links
 
