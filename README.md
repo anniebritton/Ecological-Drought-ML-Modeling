@@ -18,8 +18,3 @@ Rangeland ecosystems across the United States have significant biological, econo
 **Advisor and Primary Reader:** Dr. Garrett Graham
 
 **Secondary Reader:** Dr. Michael Schwebel
-
-
-To Do:
-- Clean up Scripts (consolidate into one master script?)
-
