@@ -4,14 +4,12 @@
 *Check out the NDVI-Modeling-Process-Walkthrough to get started!*
 
 ## Links
-
 - <a href="https://jscholarship.library.jhu.edu/handle/1774.2/68152"> Full Paper</a>
-
 - <a href="https://drive.google.com/file/d/1yyk9-pplgeJCpb-upcfCP5oKQ2adIGhh/view?usp=share_link">Raw CSV Data (Post GEE-Aquisition)</a>
-
 - <a href="https://drive.google.com/file/d/1r8hypfobqIRzTW_dCkcw36KLBlmPfArG/view?usp=share_link">Preprocessed CSV Data</a>
-
 - <a href="https://drive.google.com/drive/folders/1xZtnHrp0XPtGvsER1OYK7yXf3AZV5u3m?usp=share_link">Basin Shapefile</a>
+- <a href="https://drive.google.com/file/d/1-O6lCNbtBtaxyqlMFqPIm_IphcBqMmh8/view?usp=sharing">XGBoost Model joblib</a>
+- <a href="https://drive.google.com/file/d/1-EjVIQWNrrX7kMeXGweepLh_w69A0Nzk/view?usp=share_link">Extra Trees Model joblib</a>
 
 ## Abstract 
 
