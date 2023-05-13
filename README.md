@@ -3,7 +3,7 @@
 
 ## Links
 
-- Full Paper (link coming soon)
+- <a href="https://jscholarship.library.jhu.edu/handle/1774.2/68152"> Full Paper</a>
 
 - <a href="https://drive.google.com/file/d/1yyk9-pplgeJCpb-upcfCP5oKQ2adIGhh/view?usp=share_link">Raw CSV Data (Post GEE-Aquisition)</a>
 
