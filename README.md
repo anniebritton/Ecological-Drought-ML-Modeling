@@ -1,7 +1,7 @@
 # Ecological-Drought-ML-Modeling
 📊🛰️ Data processing scripts, ML models, and Explainable AI results created as part of my Masters Thesis @ Johns Hopkins: **An Interpretable Machine Learning Model to Explore Relationships between Drought Indices and Ecological Drought Impacts in the Cheyenne River Basin, USA**
 
-*Check out the NDVI-Modeling-Process-Walkthrough to get started!*
+*Check out the <a href="https://github.com/anniebritton/Ecological-Drought-ML-Modeling/blob/main/NDVI_Modeling_Process_Walkthrough.ipynb"> NDVI-Modeling-Process-Walkthrough</a> to get started!*
 
 ## Links
 - <a href="https://jscholarship.library.jhu.edu/handle/1774.2/68152"> Full Paper</a>
